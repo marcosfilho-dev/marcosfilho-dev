@@ -1,6 +1,14 @@
 <h2 align="left">Hi 👋! Eu sou o Marcos Filho. Sou desenvolvedor mobile 📱.<br>Sejam muito bem-vindos ...</h2>
 
 ###
+<div align="left">
+  <a href="https://www.instagram.com/marcosprogrammer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-filho-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=marcosfilho-dev" height="150" alt="stats graph"  />
@@ -28,13 +36,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/marcosprogrammer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-filho-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
