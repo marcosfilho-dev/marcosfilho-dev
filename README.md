@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Eu sou o Marcos Filho. Sou desenvolvedor mobile 📱.<br>Sejam muito bem-vindos ...</h2>
+<h2 align="left">Hi 👋! Sou desenvolvedor mobile 📱.<br>Sejam muito bem-vindos ...</h2>
 
 ###
 <div align="left">
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">💼Trabalho com:</h2>
+<h2 align="left">💼 Minhas Habilidades:</h2>
 
 ###
 
